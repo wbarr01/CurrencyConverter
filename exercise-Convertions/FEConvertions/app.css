@@ -1,0 +1,9 @@
+button.appButton {
+		width:25%;
+	}
+		
+	#converter {
+		border: 2px solid black;
+		background-color:grey;
+		padding: 5px 0px;
+	}
